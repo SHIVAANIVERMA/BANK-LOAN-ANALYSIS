@@ -10,7 +10,8 @@
 
 ###Technologies Used:
 
-MS SQL: Server: Data is stored and managed using Microsoft SQL Server, providing a robust and scalable database solution for efficient data processing and analysis.
+MS SQL Server: Data is stored and managed using Microsoft SQL Server, providing a robust and scalable database solution for efficient data processing and analysis.
+
 Power BI: The dashboard is built using Power BI, leveraging its advanced visualization capabilities and integration with SQL Server to create dynamic and interactive reports for enhanced data exploration and decision-making.
 
 
